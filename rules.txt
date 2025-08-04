@@ -51,6 +51,9 @@ If a rule is repealed and reenacted, it receives the number of the proposal to r
 116. Whatever is not prohibited or regulated by a rule is permitted and unregulated, with the sole exception of changing the rules, which is permitted only when a rule or set of rules explicitly or implicitly permits it.
 
 *
+117. All rule changes must be published as a pull request on this github. Pull requests will be accepted if a proposal has reached the requirements to be enacted.
+
+*
 Mutable Rules
 201. Players shall alternate in alphabetical order by discord handle, taking one whole turn apiece. Turns may not be skipped or passed, and parts of turns may not be omitted. All players begin with zero points.
 
